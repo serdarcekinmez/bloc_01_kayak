@@ -1,0 +1,446 @@
+city,lat,lon,weather,temperature,id,overall_rank,availability,name,tag
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,4569759,9.0,True,Ermitage Mont Saint Michel,Hôtel de luxe à Beauvoir avec un restaurant et un bar/salon 
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,2934442,7.400000095367432,True,Residence Le Domaine du Mont - Vacancéole,Résidence 3 étoiles à Roz-sur-Couesnon avec un spa et une piscine couverte 
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,1170658,7.599999904632568,True,Altos Hôtel & Spa,"Hôtel 3 étoiles avec un spa proposant des soins complets - Jardins de l'evêché à 1,8 km"
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,20699,9.0,True,Hôtel Barrière Le Grand Hôtel Dinard,"Hôtel 5 étoiles proche de la plage avec spa, près de Plage de Dinard "
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,6560916,9.399999618530273,True,Hôtel L'Adresse,"Hôtel 4 étoiles avec un bar/salon - Plage du Sillon à 0,1 km"
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,3895135,9.199999809265137,True,Brit Hotel Piscine & Spa - Fougères,Hôtel 3 étoiles à Lécousse avec un spa et une piscine couverte 
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,1371319,8.199999809265137,True,Logis Hôtel Restaurant Le Fruitier,Hôtel 3 étoiles à Villedieu-les-Poêles avec un restaurant et un bar/salon 
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,658056,8.199999809265137,True,Hotel Kyriad Saint Malo centre Plage,"Hôtel qui accepte les animaux de compagnie à proximité de Plage du Sillon, en liaison directe avec le centre des congrès et disposant d'un bar de  plage
+"
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,1165904,8.399999618530273,True,Logis Hotel du Chateau,Hôtel au bord d'un lac à Combourg avec un restaurant et un bar/salon 
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,25181015,10.0,True,Manoir de Rigourdaine,Hôtel au bord de l'eau à Plouër-sur-Rance avec un restaurant et un bar/salon 
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,1320777,8.199999809265137,True,La Malouiniere Des Longchamps,Hôtel très pratique pour les familles à Saint-Jouan-des-Guérets avec un spa et un bar/salon 
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,8779967,8.600000381469727,True,Résidence Reine Marine,Résidence en bord de plage à Saint-Malo avec spa et bar/salon 
+Mont Saint Michel,48.6359541,-1.511459954959514,clear sky,27.39,5205800,8.199999809265137,True,"Hôtel Beau Rivage, Restaurant L'Eveil des Sens",Hôtel près de la baie à Le Vivier-sur-Mer avec un restaurant et un bar/salon 
+St Malo,48.649518,-2.0260409,clear sky,27.38,6560916,9.399999618530273,True,Hôtel L'Adresse,"Hôtel 4 étoiles avec un bar/salon - Plage du Sillon à 0,1 km"
+St Malo,48.649518,-2.0260409,clear sky,27.38,658056,8.199999809265137,True,Hotel Kyriad Saint Malo centre Plage,"Hôtel qui accepte les animaux de compagnie à proximité de Plage du Sillon, en liaison directe avec le centre des congrès et disposant d'un bar de  plage
+"
+St Malo,48.649518,-2.0260409,clear sky,27.38,8779967,8.600000381469727,True,Résidence Reine Marine,Résidence en bord de plage à Saint-Malo avec spa et bar/salon 
+St Malo,48.649518,-2.0260409,clear sky,27.38,20699,9.0,True,Hôtel Barrière Le Grand Hôtel Dinard,"Hôtel 5 étoiles proche de la plage avec spa, près de Plage de Dinard "
+St Malo,48.649518,-2.0260409,clear sky,27.38,9315,8.800000190734863,True,Hôtel Emeria Dinard Thalasso & Spa,Hôtel proche de la plage à Dinard avec 2 restaurants et un spa proposant des soins complets 
+St Malo,48.649518,-2.0260409,clear sky,27.38,1165904,8.399999618530273,True,Logis Hotel du Chateau,Hôtel au bord d'un lac à Combourg avec un restaurant et un bar/salon 
+St Malo,48.649518,-2.0260409,clear sky,27.38,16224457,8.600000381469727,True,Best Western Armor Park Dinan,Hôtel 3 étoiles à Taden avec un restaurant et un bar/salon 
+St Malo,48.649518,-2.0260409,clear sky,27.38,25181015,10.0,True,Manoir de Rigourdaine,Hôtel au bord de l'eau à Plouër-sur-Rance avec un restaurant et un bar/salon 
+St Malo,48.649518,-2.0260409,clear sky,27.38,1320777,8.199999809265137,True,La Malouiniere Des Longchamps,Hôtel très pratique pour les familles à Saint-Jouan-des-Guérets avec un spa et un bar/salon 
+St Malo,48.649518,-2.0260409,clear sky,27.38,2934442,7.400000095367432,True,Residence Le Domaine du Mont - Vacancéole,Résidence 3 étoiles à Roz-sur-Couesnon avec un spa et une piscine couverte 
+St Malo,48.649518,-2.0260409,clear sky,27.38,2238852,8.0,True,Vacancéole - Dinan Duguesclin,Résidence 3 étoiles à Dinan avec une piscine couverte 
+St Malo,48.649518,-2.0260409,clear sky,27.38,30658302,8.0,True,Hôtel Le d'Avaugour,"Hôtel 3 étoiles avec un bar/salon - Tour de l'horloge de Dinan à 0,2 km"
+St Malo,48.649518,-2.0260409,clear sky,27.38,5205800,8.199999809265137,True,"Hôtel Beau Rivage, Restaurant L'Eveil des Sens",Hôtel près de la baie à Le Vivier-sur-Mer avec un restaurant et un bar/salon 
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,18750386,9.0,True,inspiration by balladins Caen Mémorial,Hôtel 3 étoiles à Saint-Contest avec un bar/salon 
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,5506993,8.399999618530273,True,La Cremaillère,Hôtel proche de la plage à Courseulles-sur-Mer avec restaurant et bar/salon 
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,1170391,9.399999618530273,True,Ferme de la Rançonnière,Hôtel 4 étoiles à Crépon avec un restaurant et un bar/salon 
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,2522982,8.199999809265137,True,Campanile Caen Centre - Gare,Hôtel 3 étoiles dans le quartier de Centre-ville de Caen avec un bar/salon 
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,1150004,8.199999809265137,True,Campanile Caen Mondeville,"Hôtel qui accepte les animaux de compagnie à Mondeville, avec un restaurant et en liaison directe avec un centre commercial"
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,1069007,7.400000095367432,True,"The Originals City, Hôtel Otelinn, Caen",Zone Activité Nord-Ouest à Caen : hôtel en périphérie avec une piscine couverte et un restaurant
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,1395716,7.400000095367432,True,Appart'City Classic Caen,"Appart'hôtel qui accepte les animaux de compagnie à Caen, en liaison directe avec un centre commercial
+"
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,1226690,7.599999904632568,True,"The Originals City, Hôtel Le Savoy, Caen","Hôtel 3 étoiles avec un bar/salon - Musée de Normandie à 2,5 km"
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,1149998,7.199999809265137,True,Kyriad Caen Nord - Hérouville Saint Clair,Hôtel 3 étoiles à Hérouville-Saint-Clair avec un restaurant 
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,1405450,7.599999904632568,True,Pierre & Vacances Residence Le Green Beach,Résidence de luxe à Port-en-Bessin-Huppain avec une piscine couverte 
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,91102429,,True,Comme chez soi - Deplacement Pro,Appartements en copropriété confortables à Mondeville avec cuisines 
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,1168255,8.600000381469727,True,Hôtel La Rosière,"Hôtel 3 étoiles avec un bar/salon - Cap Manvieux à 2,9 km"
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,3810,8.600000381469727,True,Novotel Caen Cote De Nacre,Hôtel 4 étoiles dans le quartier de La Pierre-Heuzé avec un restaurant et un bar/salon 
+Bayeux,49.2764624,-0.7024738,clear sky,26.14,919888,8.399999618530273,True,ibis Caen Porte De Bretagne,Hôtel 3 étoiles avec un restaurant - Festyland à 2 km
+Le Havre,49.4938975,0.1079732,clear sky,21.51,11700864,9.0,True,Nomad Hotel Le Havre,Hôtel 3 étoiles dans le quartier de Sainte Marie - Saint Leon avec un restaurant et un bar/salon
+Le Havre,49.4938975,0.1079732,clear sky,21.51,26700602,7.400000095367432,True,B&B Hotel Le Havre Centre Gare,Hôtel 3 étoiles à Le Havre 
+Le Havre,49.4938975,0.1079732,clear sky,21.51,1150056,6.800000190734863,True,Birgit Hotel Le Havre Centre,Hôtel 3 étoiles à Le Havre avec un restaurant et un bar/salon 
+Le Havre,49.4938975,0.1079732,clear sky,21.51,4020500,7.800000190734863,True,Boutique Hotel d'Angleterre,Hôtel 3 étoiles dans le quartier de Centre-ville du Havre 
+Le Havre,49.4938975,0.1079732,clear sky,21.51,1698,8.600000381469727,True,Hôtel Barrière Le Normandy Deauville,"Hôtel de luxe à proximité de Plage de Deauville, en liaison directe avec le centre des congrès et disposant d'un spa à soins complets
+"
+Le Havre,49.4938975,0.1079732,clear sky,21.51,4982483,9.199999809265137,True,Le Grand Pavois,Hôtel au bord de l'eau à Fécamp avec 5 bars de plage et un bar/salon 
+Le Havre,49.4938975,0.1079732,clear sky,21.51,2466841,8.600000381469727,True,Hotel Almoria,"Hôtel 3 étoiles avec un bar/salon - Plage de Deauville à 0,9 km"
+Le Havre,49.4938975,0.1079732,clear sky,21.51,64545597,8.0,True,Brit Hotel Deauville Sud,"Hôtel 4 étoiles avec un bar/salon - Hippodrome de Deauville-La Touques à 2,7 km"
+Le Havre,49.4938975,0.1079732,clear sky,21.51,9591048,8.600000381469727,True,Cures Marines Hotel & Spa Trouville – MGallery Collection,"Hôtel 5 étoiles proche de la plage avec restaurant, près de Plage de Deauville "
+Rouen,49.4404591,1.0939658,clear sky,25.41,914055,7.199999809265137,True,B&B Hotel Rouen Centre,"Hôtel qui accepte les animaux de compagnie à Rouen, avec un restaurant et en liaison directe avec un centre commercial"
+Rouen,49.4404591,1.0939658,clear sky,25.41,1383016,8.199999809265137,True,Hotel de Quebec,Hôtel au centre-ville dans le quartier de Centre-ville de Rouen 
+Rouen,49.4404591,1.0939658,clear sky,25.41,1150190,7.800000190734863,True,Campanile Rouen Sud - Zénith - Parc Expo,Hôtel 3 étoiles à Saint-Étienne-du-Rouvray avec un restaurant et un bar/salon 
+Rouen,49.4404591,1.0939658,clear sky,25.41,10624962,8.600000381469727,True,Hôtel le Pavillon de Rouen,Hôtel 3 étoiles à Franqueville-Saint-Pierre avec un restaurant et un bar/salon 
+Rouen,49.4404591,1.0939658,clear sky,25.41,4068,7.800000190734863,True,Contact Hotel Le Seino Marin,Hôtel 3 étoiles à Cléon avec un bar/salon 
+Rouen,49.4404591,1.0939658,clear sky,25.41,25377,7.599999904632568,True,Hôtel Novotel Rouen Sud,"Hôtel 4 étoiles à Saint-Étienne-du-Rouvray, avec un restaurant et en liaison directe avec le centre des congrès"
+Paris,48.8534951,2.3483915,clear sky,26.86,1337,8.600000381469727,True,Hyatt Regency Paris Etoile,Hôtel pour la clientèle LGBTQIA+ à Paris avec un restaurant et un bar/salon 
+Paris,48.8534951,2.3483915,clear sky,26.86,6454,7.800000190734863,True,Le Meridien Etoile,"Hôtel 4 étoiles avec un restaurant - Champs-Élysées à 1,4 km"
+Paris,48.8534951,2.3483915,clear sky,26.86,8115,7.199999809265137,True,Hôtel Kabanel,"Hôtel 3 étoiles avec un bar/salon - Opéra de Paris à 1,9 km"
+Paris,48.8534951,2.3483915,clear sky,26.86,53579,8.0,True,Timhotel Montmartre,"Hôtel qui plaira aux amateurs de shopping en liaison directe avec le centre des congrès, à une courte marche de La Machine du Moulin Rouge
+"
+Paris,48.8534951,2.3483915,clear sky,26.86,565710,8.800000190734863,True,Villa Pantheon,"Hôtel 4 étoiles avec un bar/salon - Notre-Dame de Paris à 0,9 km"
+Paris,48.8534951,2.3483915,clear sky,26.86,6066034,8.199999809265137,True,Hôtel Josephine by Happyculture,"Hôtel 4 étoiles avec un bar/salon - La Machine du Moulin Rouge à 0,2 km"
+Paris,48.8534951,2.3483915,clear sky,26.86,201207,8.600000381469727,True,Villa Alessandra,"Hôtel 4 étoiles avec un bar/salon - Champs-Élysées à 0,9 km"
+Paris,48.8534951,2.3483915,clear sky,26.86,863741,8.0,True,Hôtel R. Kipling by Happyculture,"Hôtel 4 étoiles avec un bar/salon - La Machine du Moulin Rouge à 0,3 km"
+Paris,48.8534951,2.3483915,clear sky,26.86,12508516,9.399999618530273,True,Hôtel Opéra Liège,"Hôtel 4 étoiles avec un bar/salon - La Machine du Moulin Rouge à 0,9 km"
+Paris,48.8534951,2.3483915,clear sky,26.86,1089303,8.199999809265137,True,1K Paris,"Hôtel 4 étoiles avec 3 bars - Musée Picasso à 0,7 km"
+Paris,48.8534951,2.3483915,clear sky,26.86,5251,9.199999809265137,True,Hôtel Regent's Garden - Astotel,Hôtel au centre-ville non loin de Champs-Élysées 
+Paris,48.8534951,2.3483915,clear sky,26.86,8539,8.800000190734863,True,M Social Hotel Paris Opera,"Hôtel 4 étoiles à proximité de Opéra de Paris, en liaison directe avec le centre des congrès et disposant d'un restaurant
+"
+Paris,48.8534951,2.3483915,clear sky,26.86,1098400,7.199999809265137,True,Timhotel Paris Gare de Lyon,"Hôtel dans le centre-ville et en liaison directe avec le centre des congrès, non loin de Place de la Bastille
+"
+Paris,48.8534951,2.3483915,clear sky,26.86,11232444,8.199999809265137,True,Hôtel Des Arènes,Hôtel au centre-ville à quelques minutes de marche de Panthéon 
+Paris,48.8534951,2.3483915,clear sky,26.86,79393779,9.399999618530273,True,SO/ Paris Hotel,"Hôtel de luxe avec un spa proposant des soins complets - Île Saint-Louis à 0,6 km"
+Amiens,49.8941708,2.2956951,clear sky,24.51,4850636,8.600000381469727,True,Moxy Amiens,Hôtel 3 étoiles à Amiens avec un restaurant et un bar/salon 
+Amiens,49.8941708,2.2956951,clear sky,24.51,26500139,8.600000381469727,True,"The Originals City, Tabl'Hôtel, Amiens",Hôtel en périphérie à Longueau avec un restaurant et un bar/salon 
+Amiens,49.8941708,2.2956951,clear sky,24.51,1177567,8.199999809265137,True,Hotel Campanile Amiens - Glisy,Hôtel 3 étoiles à Glisy avec un restaurant et un bar/salon 
+Amiens,49.8941708,2.2956951,clear sky,24.51,3126,8.0,True,"Holiday Inn Express Amiens, an IHG Hotel",Hôtel au centre-ville à Amiens avec un bar/salon 
+Amiens,49.8941708,2.2956951,clear sky,24.51,6881669,7.599999904632568,True,Appart'City Confort Amiens Gare,Appartements au centre-ville à Amiens avec kitchenettes 
+Amiens,49.8941708,2.2956951,clear sky,24.51,2232436,8.800000190734863,True,Mercure Amiens Cathedrale,Hôtel 4 étoiles dans le quartier de Centre-ville avec un restaurant et un bar/salon 
+Amiens,49.8941708,2.2956951,clear sky,24.51,37057845,9.0,True,ibis Styles Amiens Centre,Hôtel 3 étoiles à Amiens avec un restaurant et un bar/salon 
+Amiens,49.8941708,2.2956951,clear sky,24.51,4321,7.599999904632568,True,Hotel Novotel Amiens Pôle Jules Verne,Hôtel 4 étoiles à Boves avec une piscine extérieure et un restaurant 
+Amiens,49.8941708,2.2956951,clear sky,24.51,30444622,8.800000190734863,True,Kyriad Prestige Amiens Poulainville Hotel and SPA,Hôtel 4 étoiles à Poulainville avec un spa et un restaurant 
+Amiens,49.8941708,2.2956951,clear sky,24.51,2175143,8.600000381469727,True,Ibis Albert Pays de Somme,"Hôtel 3 étoiles avec un restaurant - Musée d'histoire Somme 1916 à 2,3 km"
+Lille,50.6365654,3.0635282,clear sky,25.27,64112590,9.199999809265137,True,OKKO Hotels Lille Centre,Hôtel 4 étoiles dans le quartier de Centre-ville de Lille avec un restaurant et un bar/salon 
+Lille,50.6365654,3.0635282,clear sky,25.27,24355,9.0,True,Grand Hotel Bellevue,Centre-ville de Lille : hôtel au centre-ville avec un bar/salon 
+Lille,50.6365654,3.0635282,clear sky,25.27,3534051,9.0,True,Hôtel Barrière Lille,"Hôtel de luxe à proximité de Euralille, en liaison directe avec un centre commercial et disposant d'un spa à soins complets
+"
+Lille,50.6365654,3.0635282,clear sky,25.27,986234,9.0,True,"L'Hermitage Gantois, Autograph Collection",Hôtel de luxe dans le quartier de Centre-ville de Lille avec 2 restaurants et un spa
+Lille,50.6365654,3.0635282,clear sky,25.27,44588852,9.0,True,Moxy Lille City,"Hôtel 3 étoiles avec une salle de fitness ouverte 24 h/24 - Grand'Place de Lille à 1,2 km"
+Lille,50.6365654,3.0635282,clear sky,25.27,891165,8.600000381469727,True,La Valiz,Au cœur de Lille 
+Lille,50.6365654,3.0635282,clear sky,25.27,36419678,9.399999618530273,True,Aparthotel Adagio Lille Centre Grand Place,Appartements de luxe à Lille avec cuisines 
+Lille,50.6365654,3.0635282,clear sky,25.27,1150068,7.400000095367432,True,Campanile Lille Sud-CHR,Hôtel 3 étoiles à Lille avec un restaurant et un bar/salon 
+Lille,50.6365654,3.0635282,clear sky,25.27,77990485,8.399999618530273,True,B&B Hotel Lille Lillenium Eurasanté,"Hôtel très pratique pour les familles et en liaison directe avec un centre commercial, non loin de Parc Jean-Baptiste Lebas
+"
+Lille,50.6365654,3.0635282,clear sky,25.27,6454446,8.399999618530273,True,Campanile Hotel Lille Euralille,Hôtel 3 étoiles à La Madeleine avec un restaurant et un bar/salon 
+Lille,50.6365654,3.0635282,clear sky,25.27,797274,8.800000190734863,True,Novotel Ieper Centrum Flanders Fields,Hôtel au centre-ville à Ypres 
+Lille,50.6365654,3.0635282,clear sky,25.27,662495,8.600000381469727,True,Hotel Damier,"Hôtel de luxe à Courtrai, avec 2 des restaurants et en liaison directe avec un centre commercial"
+Lille,50.6365654,3.0635282,clear sky,25.27,37491812,9.199999809265137,True,Best Western Le Beffroi,Hôtel 3 étoiles à Loos avec un bar/salon 
+Lille,50.6365654,3.0635282,clear sky,25.27,9851,8.600000381469727,True,Sure Hotel by Best Western Lille Tourcoing Ex Hotel Garden,"Hôtel 3 étoiles avec un restaurant - Centre commercial Promenade de Flandre à 2,4 km"
+Lille,50.6365654,3.0635282,clear sky,25.27,30431670,9.399999618530273,True,Hotel Louvre Lens - Esprit de France,Hôtel 4 étoiles à Lens avec un restaurant et un bar/salon 
+Strasbourg,48.584614,7.7507127,clear sky,27.23,18915642,9.199999809265137,True,OKKO Hotels Strasbourg Centre,"Hôtel 4 étoiles avec un restaurant - Cathédrale Notre-Dame de Strasbourg à 1,7 km"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,32395570,9.199999809265137,True,K Hotel,"Hôtel 3 étoiles avec un bar/salon - Zénith de Strasbourg à 2,5 km"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,53440,7.800000190734863,True,7Hotel&Spa,Hôtel 4 étoiles à Illkirch-Graffenstaden avec un spa et une piscine couverte 
+Strasbourg,48.584614,7.7507127,clear sky,27.23,438103,9.0,True,ClapClap Hôtel,"Hôtel 3 étoiles avec un restaurant - Place Kléber à 0,7 km"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,35371393,8.800000190734863,True,Garrigae Villa La Florangerie,"Hôtel 4 étoiles avec un spa proposant des soins complets - Cathédrale Notre-Dame de Strasbourg à 2,2 km"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,57146852,9.0,True,Aloft Strasbourg Etoile,"Hôtel 4 étoiles avec un bar/salon - Cathédrale Notre-Dame de Strasbourg à 1,2 km"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,1383203,8.600000381469727,True,Hôtel Diana Restaurant & Spa,"Hôtel au bord de l'eau avec un spa proposant des soins complets - Office de Tourisme Region Molsheim-Mutzig à 0,6 km"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,4071734,8.800000190734863,True,Hotel Athena Spa,"Hôtel 4 étoiles avec un spa proposant des soins complets - Place de la Gare à 2,9 km"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,127230,9.399999618530273,True,"Maison Rouge Strasbourg Hotel&Spa, Autograph Collection",Hôtel pour la clientèle LGBTQIA+ à Strasbourg avec un spa et un restaurant 
+Strasbourg,48.584614,7.7507127,clear sky,27.23,53619,8.199999809265137,True,Hotel Cathedrale,"Hôtel 4 étoiles avec un bar/salon - Cathédrale Notre-Dame de Strasbourg à 0,1 km"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,7431606,8.600000381469727,True,"Holiday Inn Express Strasbourg - Centre, an IHG Hotel","Hôtel 3 étoiles avec un bar/salon - Musée alsacien à 1,2 km"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,442877,8.600000381469727,True,Best Western Plus Hotel Villa D'est,"Hôtel 4 étoiles à proximité de Strasbourg Christmas Market, en liaison directe avec le centre des congrès et disposant d'un bar/lounge
+"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,44894,7.800000190734863,True,Hotel Kaijoo by HappyCulture,"Hôtel 4 étoiles avec un bar/salon - Place de la Gare à 0,6 km"
+Strasbourg,48.584614,7.7507127,clear sky,27.23,5189594,8.0,True,Appart'City Confort Strasbourg Centre,Appartements au centre-ville avec kitchenettes 
+Strasbourg,48.584614,7.7507127,clear sky,27.23,4395192,9.0,True,Romantikhotel Rebstock art & design,Hôtel de luxe à Kehl avec un restaurant 
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,18915642,9.199999809265137,True,OKKO Hotels Strasbourg Centre,"Hôtel 4 étoiles avec un restaurant - Cathédrale Notre-Dame de Strasbourg à 1,7 km"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,32395570,9.199999809265137,True,K Hotel,"Hôtel 3 étoiles avec un bar/salon - Zénith de Strasbourg à 2,5 km"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,53440,7.800000190734863,True,7Hotel&Spa,Hôtel 4 étoiles à Illkirch-Graffenstaden avec un spa et une piscine couverte 
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,438103,9.0,True,ClapClap Hôtel,"Hôtel 3 étoiles avec un restaurant - Place Kléber à 0,7 km"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,35371393,8.800000190734863,True,Garrigae Villa La Florangerie,"Hôtel 4 étoiles avec un spa proposant des soins complets - Cathédrale Notre-Dame de Strasbourg à 2,2 km"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,57146852,9.0,True,Aloft Strasbourg Etoile,"Hôtel 4 étoiles avec un bar/salon - Cathédrale Notre-Dame de Strasbourg à 1,2 km"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,1383203,8.600000381469727,True,Hôtel Diana Restaurant & Spa,"Hôtel au bord de l'eau avec un spa proposant des soins complets - Office de Tourisme Region Molsheim-Mutzig à 0,6 km"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,4071734,8.800000190734863,True,Hotel Athena Spa,"Hôtel 4 étoiles avec un spa proposant des soins complets - Place de la Gare à 2,9 km"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,127230,9.399999618530273,True,"Maison Rouge Strasbourg Hotel&Spa, Autograph Collection",Hôtel pour la clientèle LGBTQIA+ à Strasbourg avec un spa et un restaurant 
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,53619,8.199999809265137,True,Hotel Cathedrale,"Hôtel 4 étoiles avec un bar/salon - Cathédrale Notre-Dame de Strasbourg à 0,1 km"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,7431606,8.600000381469727,True,"Holiday Inn Express Strasbourg - Centre, an IHG Hotel","Hôtel 3 étoiles avec un bar/salon - Musée alsacien à 1,2 km"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,442877,8.600000381469727,True,Best Western Plus Hotel Villa D'est,"Hôtel 4 étoiles à proximité de Strasbourg Christmas Market, en liaison directe avec le centre des congrès et disposant d'un bar/lounge
+"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,44894,7.800000190734863,True,Hotel Kaijoo by HappyCulture,"Hôtel 4 étoiles avec un bar/salon - Place de la Gare à 0,6 km"
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,5189594,8.0,True,Appart'City Confort Strasbourg Centre,Appartements au centre-ville avec kitchenettes 
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,clear sky,23.26,4395192,9.0,True,Romantikhotel Rebstock art & design,Hôtel de luxe à Kehl avec un restaurant 
+Colmar,48.0777517,7.3579641,clear sky,26.46,1527011,7.0,True,"The Originals Access, Hôtel Colmar Gare",Centre-ville de Colmar : hôtel au centre-ville avec un bar/salon 
+Colmar,48.0777517,7.3579641,clear sky,26.46,2693894,8.399999618530273,True,Rapp'Hôtel,Hôtel 4 étoiles dans le quartier de Centre-ville de Colmar avec une piscine couverte et un restaurant 
+Colmar,48.0777517,7.3579641,clear sky,26.46,4231374,9.0,True,B&B Hotel Colmar Liberté,Hôtel de luxe à Colmar avec un bar/salon 
+Colmar,48.0777517,7.3579641,clear sky,26.46,174835,9.600000381469727,True,L'Esquisse Hotel & Spa Colmar  - MGallery,Hôtel de luxe dans le quartier de Centre-ville de Colmar avec un spa et une piscine couverte 
+Colmar,48.0777517,7.3579641,clear sky,26.46,34179,7.800000190734863,True,Logis Hôtel Beauséjour Colmar,Hôtel 3 étoiles à Colmar avec un restaurant et un bar/salon 
+Colmar,48.0777517,7.3579641,clear sky,26.46,66087379,9.0,True,MOXY Rust,"Hôtel avec un bar/salon - Parc aquatique Rulantica à 1,2 km"
+Colmar,48.0777517,7.3579641,clear sky,26.46,48369,8.199999809265137,True,Dorint Thermenhotel Freiburg,Hôtel de luxe à Fribourg-en-Brisgau avec 2 piscines couvertes et un spa
+Colmar,48.0777517,7.3579641,clear sky,26.46,4985866,9.0,True,Resort Barrière Ribeauvillé,Hôtel 4 étoiles à Ribeauvillé avec 2 restaurants et 2 piscines couvertes 
+Colmar,48.0777517,7.3579641,clear sky,26.46,30118518,9.0,True,Best Western Plus Hotel Les Humanistes,"Hôtel 4 étoiles avec un restaurant - Parc des cigognes Cigoland à 1,2 km"
+Colmar,48.0777517,7.3579641,clear sky,26.46,2487076,8.600000381469727,True,Sun Parc Hotel,Hôtel 3 étoiles proche de Parc aquatique Rulantica 
+Colmar,48.0777517,7.3579641,clear sky,26.46,2542944,8.600000381469727,True,Brit Hotel et Spa COLMAR EAST,Hôtel 3 étoiles à Bischwihr avec un spa et un restaurant 
+Colmar,48.0777517,7.3579641,clear sky,26.46,3848318,8.600000381469727,True,Kapuzinergarten Panoramahotel,"Hôtel très pratique pour les familles avec un spa proposant des soins complets - Kaiserstuhl à 0,1 km"
+Colmar,48.0777517,7.3579641,clear sky,26.46,2685355,8.0,True,Hotel Munsch,Hôtel 3 étoiles à Saint-Hippolyte avec un domaine viticole et un restaurant 
+Colmar,48.0777517,7.3579641,clear sky,26.46,1227650,8.800000190734863,True,Hotel Hirschen,Hôtel 4 étoiles à Fribourg-en-Brisgau avec 2 restaurants et un bar/salon 
+Colmar,48.0777517,7.3579641,clear sky,26.46,2241278,8.800000190734863,True,"Les Violettes Hotel & SPA Alsace, BW Premier Collection",Hôtel 4 étoiles à Soultz-Haut-Rhin avec 2 restaurants et un spa
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,2205803,8.199999809265137,True,Pierre & Vacances Résidence Le Clos d'Eguisheim,Résidence de luxe à Eguisheim avec une piscine couverte 
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,4985866,9.0,True,Resort Barrière Ribeauvillé,Hôtel 4 étoiles à Ribeauvillé avec 2 restaurants et 2 piscines couvertes 
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,30118518,9.0,True,Best Western Plus Hotel Les Humanistes,"Hôtel 4 étoiles avec un restaurant - Parc des cigognes Cigoland à 1,2 km"
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,1527011,7.0,True,"The Originals Access, Hôtel Colmar Gare",Centre-ville de Colmar : hôtel au centre-ville avec un bar/salon 
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,2542944,8.600000381469727,True,Brit Hotel et Spa COLMAR EAST,Hôtel 3 étoiles à Bischwihr avec un spa et un restaurant 
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,3848318,8.600000381469727,True,Kapuzinergarten Panoramahotel,"Hôtel très pratique pour les familles avec un spa proposant des soins complets - Kaiserstuhl à 0,1 km"
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,2685355,8.0,True,Hotel Munsch,Hôtel 3 étoiles à Saint-Hippolyte avec un domaine viticole et un restaurant 
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,2522398,8.199999809265137,True,Les Vallées Hôtel & Résidence,"Hôtel de La Bresse ski, avec un spa et une navette gratuite vers les pistes de ski"
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,2693894,8.399999618530273,True,Rapp'Hôtel,Hôtel 4 étoiles dans le quartier de Centre-ville de Colmar avec une piscine couverte et un restaurant 
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,4231374,9.0,True,B&B Hotel Colmar Liberté,Hôtel de luxe à Colmar avec un bar/salon 
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,1169069,9.399999618530273,True,Le Manoir au Lac,Hôtel 4 étoiles à Gérardmer avec une piscine couverte et un restaurant 
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,2241278,8.800000190734863,True,"Les Violettes Hotel & SPA Alsace, BW Premier Collection",Hôtel 4 étoiles à Soultz-Haut-Rhin avec 2 restaurants et un spa
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,174835,9.600000381469727,True,L'Esquisse Hotel & Spa Colmar  - MGallery,Hôtel de luxe dans le quartier de Centre-ville de Colmar avec un spa et une piscine couverte 
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,34179,7.800000190734863,True,Logis Hôtel Beauséjour Colmar,Hôtel 3 étoiles à Colmar avec un restaurant et un bar/salon 
+Eguisheim,48.0447968,7.3079618,clear sky,26.47,1451431,7.0,True,Hôtel Domaine Langmatt,Hôtel 4 étoiles à Murbach avec un spa et une piscine couverte 
+Besancon,47.2380222,6.0243622,few clouds,25.79,4111321,8.199999809265137,True,Zenitude Hôtel - Résidences Les Hauts du Chazal,Appartements au centre-ville à Besançon avec kitchenettes 
+Besancon,47.2380222,6.0243622,few clouds,25.79,1391549,7.800000190734863,True,Zenitude Hôtel - Résidences La City,Appartements confortables à Besançon avec kitchenettes 
+Besancon,47.2380222,6.0243622,few clouds,25.79,1063049,8.0,True,ibis Besançon Centre La City,Hôtel 3 étoiles à Besançon avec un restaurant et un bar/salon 
+Besancon,47.2380222,6.0243622,few clouds,25.79,8575,7.400000095367432,True,Mercure Besancon Parc Micaud,Hôtel 4 étoiles à Besançon avec un restaurant et un bar/salon 
+Besancon,47.2380222,6.0243622,few clouds,25.79,17877,7.199999809265137,True,ibis Besançon Marchaux,Hôtel 3 étoiles à Marchaux-Chaudefontaine avec un restaurant 
+Dijon,47.3215806,5.0414701,clear sky,26.8,1781,8.399999618530273,True,"Holiday Inn Dijon, an IHG Hotel","Hôtel 4 étoiles à proximité de Centre commercial La Toison d’or, en liaison directe avec un centre commercial et disposant d'un spa à soins complets
+"
+Dijon,47.3215806,5.0414701,clear sky,26.8,1152361,8.199999809265137,True,"The Originals City, Hôtel Armony, Dijon Sud",Hôtel de style Art déco à Chenôve avec un restaurant et un bar/salon 
+Dijon,47.3215806,5.0414701,clear sky,26.8,3482342,8.399999618530273,True,Comfort Hotel Dijon Sud,Hôtel 3 étoiles à Longvic avec un restaurant et un bar/salon 
+Dijon,47.3215806,5.0414701,clear sky,26.8,1150026,8.199999809265137,True,Campanile Dijon Nord - Toison d'Or,Hôtel très pratique pour les familles à Dijon avec un restaurant et un bar/salon 
+Dijon,47.3215806,5.0414701,clear sky,26.8,5542412,8.800000190734863,True,"Holiday Inn Express Dijon, an IHG Hotel","Hôtel qui accepte les animaux de compagnie à Saint-Apollinaire, avec un bar / salon et en liaison directe avec le centre des congrès"
+Dijon,47.3215806,5.0414701,clear sky,26.8,90079261,8.800000190734863,True,B&B Hotel Dijon Valmy Toison d'Or,Hôtel 3 étoiles à Dijon 
+Dijon,47.3215806,5.0414701,clear sky,26.8,1400180,8.0,True,"The Originals City, Hôtel Castel Burgond",Hôtel 3 étoiles à Daix avec un restaurant et un bar/salon 
+Dijon,47.3215806,5.0414701,clear sky,26.8,21440,8.0,True,Hotel L'Escargotière,Hôtel 3 étoiles à Chenôve avec un restaurant et un bar/salon 
+Dijon,47.3215806,5.0414701,clear sky,26.8,2361435,7.0,True,Appart’City Classic Dijon – Toison D’or,Appartements très pratiques pour les familles à Ahuy avec kitchenettes 
+Dijon,47.3215806,5.0414701,clear sky,26.8,9220,7.800000190734863,True,Novotel Dijon Sud,"Hôtel 4 étoiles avec une piscine extérieure - Chateau de Marsannay à 1,2 km"
+Dijon,47.3215806,5.0414701,clear sky,26.8,32798659,9.199999809265137,True,Best Western Dijon Quetigny,Hôtel 3 étoiles à Quetigny avec un bar/salon 
+Dijon,47.3215806,5.0414701,clear sky,26.8,1194513,8.0,True,Hotel Inn Dijon-Quetigny,Hôtel au centre-ville à Quetigny avec un bar/salon 
+Annecy,45.8992348,6.1288847,clear sky,24.76,890873,8.800000190734863,True,L'Impérial Palace,"Hôtel de luxe proche de la plage avec spa, non loin de Lac d'Annecy "
+Annecy,45.8992348,6.1288847,clear sky,24.76,2525393,7.199999809265137,True,Hotel Novel Restaurant La Mamma,"Hôtel 3 étoiles avec un restaurant - Lac d'Annecy à 2,1 km"
+Annecy,45.8992348,6.1288847,clear sky,24.76,71272687,9.800000190734863,True,Le Pélican,"Hôtel 4 étoiles avec un restaurant - Lac d'Annecy à 0,6 km"
+Annecy,45.8992348,6.1288847,clear sky,24.76,20633,8.800000190734863,True,Hotel N'vY,"Hôtel de luxe avec un restaurant - Horloge fleurie à 1,6 km"
+Annecy,45.8992348,6.1288847,clear sky,24.76,2380,8.199999809265137,True,Hotel Royal,Hôtel de luxe dans le quartier de Centre-ville de Genève avec 2 restaurants et un spa
+Annecy,45.8992348,6.1288847,clear sky,24.76,970019,8.399999618530273,True,"Holiday Inn Express Geneva Airport, an IHG Hotel",Hôtel 3 étoiles à Meyrin avec un bar/salon 
+Annecy,45.8992348,6.1288847,clear sky,24.76,7027,8.399999618530273,True,Hotel Auteuil,Hôtel de luxe à Genève avec un bar/salon 
+Annecy,45.8992348,6.1288847,clear sky,24.76,460410,8.199999809265137,True,Hotel Cornavin,Hôtel au centre-ville à Genève avec un bar/salon 
+Annecy,45.8992348,6.1288847,clear sky,24.76,10032,8.600000381469727,True,Hilton Geneva Hotel and Conference Centre,"Hôtel 4 étoiles à Le Grand-Saconnex, avec un spa proposant des soins complets et en liaison directe avec le centre des congrès"
+Annecy,45.8992348,6.1288847,clear sky,24.76,47117,8.800000190734863,True,Hotel Jade,Hôtel 3 étoiles dans le quartier de Centre-ville de Genève 
+Annecy,45.8992348,6.1288847,clear sky,24.76,73208912,9.0,True,Ruby Claire Hotel Geneva,Hôtel au centre-ville à Genève avec un bar/salon 
+Annecy,45.8992348,6.1288847,clear sky,24.76,521136,8.800000190734863,True,"Crowne Plaza Geneva, an IHG Hotel","Hôtel de luxe avec 2 restaurants - Centre commercial Balexert à 1,1 km"
+Annecy,45.8992348,6.1288847,clear sky,24.76,7481,8.0,True,Sagitta Hotel,Hôtel au centre-ville à Genève 
+Annecy,45.8992348,6.1288847,clear sky,24.76,7594,8.600000381469727,True,Hotel Mon Repos,Centre-ville : hôtel au bord d'un lac avec un restaurant et un bar/salon
+Annecy,45.8992348,6.1288847,clear sky,24.76,47113,8.600000381469727,True,9Hotel Paquis,Hôtel 3 étoiles dans le quartier de Centre-ville de Genève avec une piscine couverte et un bar/salon
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,23898,8.199999809265137,True,Mercure Grenoble Centre Alpotel,"Hôtel 4 étoiles avec un restaurant - Parc Paul-Mistral à 0,4 km"
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,1001127,8.600000381469727,True,Hôtel Le Pic Blanc,Bergers : hôtel ski avec un spa et un local à skis
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,63113081,8.800000190734863,True,Timberlodge,"Hôtel 3 étoiles disposant d'un accès direct aux pistes de ski qui propose un spa avec soins complets, non loin de Les Grandes Rousses "
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,1150032,6.800000190734863,True,Hotel Campanile Grenoble Nord - Moirans,Hôtel 3 étoiles à Moirans avec un restaurant et un bar/salon 
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,1279778,8.600000381469727,True,Hôtel Grandes Rousses,Cognet : hôtel offrant un accès direct aux pistes de ski avec un spa et un local à skis
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,4546514,8.399999618530273,True,Le Christiania Hotel,"Hôtel de Villard-de-Lans offrant un accès direct aux pistes de ski, avec un local à skis et une piscine couverte"
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,2202904,8.0,True,Terres de France - Appart Hotel Le Splendid,Résidence 3 étoiles à Allevard avec un bar/salon 
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,5205823,8.800000190734863,True,Le Cassini,"Hôtel dans les montagnes avec un restaurant - Station de sports d'hiver Les Deux Alpes à 2,2 km"
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,38333617,9.399999618530273,True,Residence Le Splendid,Résidence dans les montagnes à deux pas de Luge Park de Villard-de-Lans 
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,32257077,8.600000381469727,True,Vacanceole - Au Coeur des Ours,"Résidence 3 étoiles proche des pistes de ski qui offre un service de navette pour les pistes de ski, non loin de Station de sports d'hiver Les Deux Alpes "
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,975634,7.599999904632568,True,Pierre & Vacances Résidence Les Bergers,"Résidence de Huez offrant un accès direct aux pistes de ski, avec une piscine extérieure et un restaurant"
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,92196096,,True,Résidence Les Silènes,Hôtel 3 étoiles à Allevard 
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,1223882,8.600000381469727,True,Chalet des Neiges - Oz en Oisans,"Résidence de Oz en Oisans offrant un accès direct aux pistes de ski, avec un local à skis et des services de location d'équipement de ski"
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,93321521,,True,Chalet Le Panoramique,"Hôtel dans les montagnes avec un restaurant - Station de sports d'hiver Les Deux Alpes à 1,3 km"
+Grenoble,45.1875602,5.7357819,scattered clouds,26.45,84346665,6.0,True,Résidence Prestige Odalys l'Eclose,Éclose-Est : résidence dans les montagnes avec un spa et une piscine couverte
+Lyon,45.7578137,4.8320114,clear sky,27.22,8970399,9.0,True,OKKO Hotels Lyon Pont Lafayette,"Hôtel 4 étoiles avec un bar/salon - Place Bellecour à 1,2 km"
+Lyon,45.7578137,4.8320114,clear sky,27.22,29049046,8.800000190734863,True,Boscolo Lyon Hôtel & Spa,"Hôtel au bord de l'eau avec un spa proposant des soins complets - Place Bellecour à 0,5 km"
+Lyon,45.7578137,4.8320114,clear sky,27.22,19373572,8.399999618530273,True,MOB Hotel Lyon Confluence,"Hôtel qui accepte les animaux de compagnie à proximité de Musée des Confluences, en liaison directe avec le centre des congrès et disposant d'un restaurant
+"
+Lyon,45.7578137,4.8320114,clear sky,27.22,898565,7.400000095367432,True,Best Western Crequi Lyon Part Dieu,"Hôtel 4 étoiles avec un bar/salon - Place Bellecour à 1,3 km"
+Lyon,45.7578137,4.8320114,clear sky,27.22,21366,8.399999618530273,True,Radisson Blu Hotel Lyon,"Hôtel 4 étoiles à proximité de Centre commercial de La Part-Dieu, en liaison directe avec un centre commercial et disposant d'un restaurant
+"
+Lyon,45.7578137,4.8320114,clear sky,27.22,19736876,9.600000381469727,True,Villa Maïa,"Hôtel de luxe avec une piscine couverte - Place Bellecour à 1,1 km"
+Lyon,45.7578137,4.8320114,clear sky,27.22,9625,8.600000381469727,True,Mercure Lyon Centre Saxe Lafayette,"Hôtel 4 étoiles avec une piscine couverte - Place Bellecour à 1,3 km"
+Lyon,45.7578137,4.8320114,clear sky,27.22,559078,8.600000381469727,True,Marriott Lyon Cité Internationale,"Hôtel 4 étoiles à proximité de Parc de la Tête d'or, en liaison directe avec le centre des congrès et disposant d'un restaurant
+"
+Lyon,45.7578137,4.8320114,clear sky,27.22,29137397,9.199999809265137,True,"Intercontinental Lyon Hotel Dieu, an IHG Hotel","Hôtel de luxe à proximité de Place Bellecour, en liaison directe avec un centre commercial et disposant d'un spa à soins complets
+"
+Lyon,45.7578137,4.8320114,clear sky,27.22,4387,8.199999809265137,True,ibis Lyon Gerland Musée des Confluences,"Hôtel au bord de l'eau avec un restaurant - Halle Tony Garnier à 0,3 km"
+Lyon,45.7578137,4.8320114,clear sky,27.22,13326877,8.0,True,B&B Hotel Lyon Caluire Cité Internationale,Hôtel 3 étoiles proche de Parc de la Tête d'or 
+Lyon,45.7578137,4.8320114,clear sky,27.22,68333399,8.600000381469727,True,Moxy Lyon Airport,"Hôtel qui accepte les animaux de compagnie à Colombier-Saugnieu, avec un restaurant et en liaison directe avec l'aéroport"
+Lyon,45.7578137,4.8320114,clear sky,27.22,1165841,8.199999809265137,True,Le Beau Rivage,Hôtel 4 étoiles à Condrieu avec un restaurant et un bar/salon 
+Lyon,45.7578137,4.8320114,clear sky,27.22,2867430,8.800000190734863,True,NH Lyon Airport,Hôtel 4 étoiles à Colombier-Saugnieu avec un spa et un restaurant 
+Lyon,45.7578137,4.8320114,clear sky,27.22,1150086,8.199999809265137,True,Kyriad Lyon Sud - Givors,"Hôtel 3 étoiles avec un restaurant - Parc naturel régional du Pilat à 2,6 km"
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,557934,9.0,True,Le Mirage,Hôtel 4 étoiles à Bormes-les-Mimosas avec un restaurant et un bar en bord de piscine 
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,41065821,8.800000190734863,True,Hôtel L'Eautel Toulon Port,"Hôtel 4 étoiles à proximité de Port de Toulon, en liaison directe avec une gare / une station de métro et disposant d'une piscine extérieure
+"
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,9836548,9.399999618530273,True,Hôtel Villa Cosy,Hôtel de luxe à Saint-Tropez avec un spa et une piscine extérieure 
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,1195083,7.0,True,SOWELL HÔTELS Saint Tropez,Hôtel 4 étoiles avec un restaurant - Port Grimaud à 2 km
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,2745181,8.399999618530273,True,Ibis Golfe de Saint Tropez,Hôtel au centre-ville à Cogolin avec un bar/salon 
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,2425529,8.199999809265137,True,"Best Western Plus Hotel Hyeres Cote D'azur, Hyeres",Hôtel 4 étoiles dans le quartier de Centre-ville de Hyères avec un restaurant et un bar/salon 
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,1600280,8.199999809265137,True,"Grand Hôtel Dauphiné, Boutique Hôtel & Suites","Hôtel 3 étoiles avec un spa proposant des soins complets - Theatre Liberte à 0,3 km"
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,10973637,7.199999809265137,True,SOWELL RÉSIDENCES Les Perles de Saint Tropez,Hôtel 4 étoiles avec un restaurant - Port Grimaud à 2 km
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,35503479,8.399999618530273,True,Hôtel l’Escalet-Storia Ramatuelle,Hôtel à Ramatuelle avec un restaurant et un bar en bord de piscine 
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,17394545,9.399999618530273,True,Hôtel Escapade,Hôtel en bord de plage à Le Pradet avec une piscine extérieure et un restaurant
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,2522345,8.399999618530273,True,Le Chateau d'Argens,Hôtel au bord de l'eau à Les Arcs-sur-Argens avec un restaurant et un bar en bord de piscine 
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,1086807,8.0,True,Pierre & Vacances Residence La Pinede,Résidence très pratique pour les familles non loin de Presqu'île de Giens 
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,2690626,8.399999618530273,True,Athénopolis,Hôtel 3 étoiles à Grimaud avec un restaurant et un bar en bord de piscine 
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,7532372,8.0,True,Residence Pierre and Vacances Le Hameau de la Pinède,"Résidence 3 étoiles avec une plage privée dans les environs - Presqu'île de Giens à 0,1 km"
+Bormes les Mimosas,43.1506968,6.3419285,clear sky,29.86,975607,7.199999809265137,True,Pierre & Vacances Résidence Les Parcs de Grimaud,"Résidence 3 étoiles près de la plage avec terrain de golf, près de Port Grimaud "
+Cassis,43.2140359,5.5396318,broken clouds,28.0,16362821,8.600000381469727,True,Staycity Aparthotels Centre Vieux Port,Appart'hôtel 3 étoiles avec un bar/salon - Vieux-Port de Marseille à 1 km
+Cassis,43.2140359,5.5396318,broken clouds,28.0,16059888,7.800000190734863,True,Odalys City Marseille Le Dôme,Appartements au centre-ville avec kitchenettes dans le quartier de 4e arrondissement 
+Cassis,43.2140359,5.5396318,broken clouds,28.0,3483616,7.800000190734863,True,Aparthotel Adagio Access Marseille Saint-Charles,Appart'hôtel au centre-ville non loin de Vieux-Port de Marseille 
+Cassis,43.2140359,5.5396318,broken clouds,28.0,1646460,8.199999809265137,True,"Radisson Blu Hotel, Marseille Vieux Port","Hôtel 4 étoiles avec un restaurant - Théâtre National de La Criée à 0,1 km"
+Cassis,43.2140359,5.5396318,broken clouds,28.0,12604650,8.399999618530273,True,Golden Tulip Marseille Euromed,"Hôtel 4 étoiles avec une piscine couverte - Grand Port Maritime de Marseille à 0,8 km"
+Cassis,43.2140359,5.5396318,broken clouds,28.0,4100318,8.399999618530273,True,Best Western Plus Hotel La Joliette,"Hôtel 4 étoiles avec une piscine couverte - Vieux-Port de Marseille à 0,2 km"
+Cassis,43.2140359,5.5396318,broken clouds,28.0,18258167,8.800000190734863,True,"Grand Hotel Des Sablettes Plage, Curio Collection By Hilton",Hôtel en bord de plage à La Seyne-sur-Mer avec 3 restaurants et un spa proposant des soins complets 
+Cassis,43.2140359,5.5396318,broken clouds,28.0,41065821,8.800000190734863,True,Hôtel L'Eautel Toulon Port,"Hôtel 4 étoiles à proximité de Port de Toulon, en liaison directe avec une gare / une station de métro et disposant d'une piscine extérieure
+"
+Cassis,43.2140359,5.5396318,broken clouds,28.0,1661227,8.199999809265137,True,Golden Tulip Villa Massalia,"Hôtel 4 étoiles avec une piscine extérieure - Parc Borély à 0,3 km"
+Cassis,43.2140359,5.5396318,broken clouds,28.0,70415014,8.600000381469727,True,Moxy La Ciotat,Hôtel 3 étoiles avec un bar/salon - Plage de La Ciotat à 2 km
+Cassis,43.2140359,5.5396318,broken clouds,28.0,8959081,7.199999809265137,True,B&B Hotel Marseille Centre La Joliette,Hôtel au centre-ville non loin de Vieux-Port de Marseille 
+Cassis,43.2140359,5.5396318,broken clouds,28.0,13351482,8.199999809265137,True,Kyriad Marseille Blancarde - Timone,"Hôtel 3 étoiles avec un bar/salon - Vieux-Port de Marseille à 2,8 km"
+Cassis,43.2140359,5.5396318,broken clouds,28.0,4313187,8.199999809265137,True,Aparthotel Adagio Marseille Timone,Appart'hôtel au centre-ville non loin de Stade Vélodrome 
+Cassis,43.2140359,5.5396318,broken clouds,28.0,5637501,6.800000190734863,True,Appart'City Classic Marseille Euromed,Appart'hôtel 3 étoiles à quelques minutes de marche de Grand Port Maritime de Marseille 
+Cassis,43.2140359,5.5396318,broken clouds,28.0,1600280,8.199999809265137,True,"Grand Hôtel Dauphiné, Boutique Hôtel & Suites","Hôtel 3 étoiles avec un spa proposant des soins complets - Theatre Liberte à 0,3 km"
+Marseille,43.2961743,5.3699525,clear sky,28.75,16362821,8.600000381469727,True,Staycity Aparthotels Centre Vieux Port,Appart'hôtel 3 étoiles avec un bar/salon - Vieux-Port de Marseille à 1 km
+Marseille,43.2961743,5.3699525,clear sky,28.75,16059888,7.800000190734863,True,Odalys City Marseille Le Dôme,Appartements au centre-ville avec kitchenettes dans le quartier de 4e arrondissement 
+Marseille,43.2961743,5.3699525,clear sky,28.75,3483616,7.800000190734863,True,Aparthotel Adagio Access Marseille Saint-Charles,Appart'hôtel au centre-ville non loin de Vieux-Port de Marseille 
+Marseille,43.2961743,5.3699525,clear sky,28.75,1646460,8.199999809265137,True,"Radisson Blu Hotel, Marseille Vieux Port","Hôtel 4 étoiles avec un restaurant - Théâtre National de La Criée à 0,1 km"
+Marseille,43.2961743,5.3699525,clear sky,28.75,12604650,8.399999618530273,True,Golden Tulip Marseille Euromed,"Hôtel 4 étoiles avec une piscine couverte - Grand Port Maritime de Marseille à 0,8 km"
+Marseille,43.2961743,5.3699525,clear sky,28.75,4100318,8.399999618530273,True,Best Western Plus Hotel La Joliette,"Hôtel 4 étoiles avec une piscine couverte - Vieux-Port de Marseille à 0,2 km"
+Marseille,43.2961743,5.3699525,clear sky,28.75,1661227,8.199999809265137,True,Golden Tulip Villa Massalia,"Hôtel 4 étoiles avec une piscine extérieure - Parc Borély à 0,3 km"
+Marseille,43.2961743,5.3699525,clear sky,28.75,8959081,7.199999809265137,True,B&B Hotel Marseille Centre La Joliette,Hôtel au centre-ville non loin de Vieux-Port de Marseille 
+Marseille,43.2961743,5.3699525,clear sky,28.75,13351482,8.199999809265137,True,Kyriad Marseille Blancarde - Timone,"Hôtel 3 étoiles avec un bar/salon - Vieux-Port de Marseille à 2,8 km"
+Marseille,43.2961743,5.3699525,clear sky,28.75,4313187,8.199999809265137,True,Aparthotel Adagio Marseille Timone,Appart'hôtel au centre-ville non loin de Stade Vélodrome 
+Marseille,43.2961743,5.3699525,clear sky,28.75,5637501,6.800000190734863,True,Appart'City Classic Marseille Euromed,Appart'hôtel 3 étoiles à quelques minutes de marche de Grand Port Maritime de Marseille 
+Marseille,43.2961743,5.3699525,clear sky,28.75,2524868,7.599999904632568,True,Hôtel Edmond Rostand,"Hôtel 3 étoiles avec un restaurant - Place Castellane à 0,4 km"
+Marseille,43.2961743,5.3699525,clear sky,28.75,84167,8.399999618530273,True,Citadines Castellane Marseille,Appart'hôtel au centre-ville non loin de Vieux-Port de Marseille 
+Marseille,43.2961743,5.3699525,clear sky,28.75,390984,8.0,True,Citadines Prado Chanot Marseille,"Appart'hôtel qui accepte les animaux de compagnie et en liaison directe avec le centre des congrès, non loin de Stade Vélodrome
+"
+Marseille,43.2961743,5.3699525,clear sky,28.75,19669311,8.800000190734863,True,NH Collection Marseille,"Hôtel 4 étoiles avec un restaurant - Vieux-Port de Marseille à 0,8 km"
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,1199254,8.0,True,Hôtel Mount Ventùri - Restaurant Acampa,"Hôtel 4 étoiles avec un restaurant - Golf Sainte Victoire à 0,4 km"
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,16362821,8.600000381469727,True,Staycity Aparthotels Centre Vieux Port,Appart'hôtel 3 étoiles avec un bar/salon - Vieux-Port de Marseille à 1 km
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,16059888,7.800000190734863,True,Odalys City Marseille Le Dôme,Appartements au centre-ville avec kitchenettes dans le quartier de 4e arrondissement 
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,3483616,7.800000190734863,True,Aparthotel Adagio Access Marseille Saint-Charles,Appart'hôtel au centre-ville non loin de Vieux-Port de Marseille 
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,1646460,8.199999809265137,True,"Radisson Blu Hotel, Marseille Vieux Port","Hôtel 4 étoiles avec un restaurant - Théâtre National de La Criée à 0,1 km"
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,12604650,8.399999618530273,True,Golden Tulip Marseille Euromed,"Hôtel 4 étoiles avec une piscine couverte - Grand Port Maritime de Marseille à 0,8 km"
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,4100318,8.399999618530273,True,Best Western Plus Hotel La Joliette,"Hôtel 4 étoiles avec une piscine couverte - Vieux-Port de Marseille à 0,2 km"
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,1661227,8.199999809265137,True,Golden Tulip Villa Massalia,"Hôtel 4 étoiles avec une piscine extérieure - Parc Borély à 0,3 km"
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,70415014,8.600000381469727,True,Moxy La Ciotat,Hôtel 3 étoiles avec un bar/salon - Plage de La Ciotat à 2 km
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,8959081,7.199999809265137,True,B&B Hotel Marseille Centre La Joliette,Hôtel au centre-ville non loin de Vieux-Port de Marseille 
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,3644050,7.400000095367432,True,Citotel Le Mirage,Hôtel 3 étoiles à Istres avec un bar en bord de piscine et un centre de conférence 
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,1266238,8.399999618530273,True,"The Originals Boutique, Clair Hôtel, Martigues",Hôtel de style Art déco à Martigues avec un restaurant et un bar/salon 
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,13351482,8.199999809265137,True,Kyriad Marseille Blancarde - Timone,"Hôtel 3 étoiles avec un bar/salon - Vieux-Port de Marseille à 2,8 km"
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,4313187,8.199999809265137,True,Aparthotel Adagio Marseille Timone,Appart'hôtel au centre-ville non loin de Stade Vélodrome 
+Aix en Provence,43.5298424,5.4474738,broken clouds,29.55,2521313,8.0,True,Hôtel Ariane,Hôtel 3 étoiles à Fos-sur-Mer avec une piscine extérieure 
+Avignon,43.9492493,4.8059012,clear sky,29.74,174874,9.399999618530273,True,Le Prieure,"Hôtel de luxe avec une piscine extérieure - Palais des Papes à 2,8 km"
+Avignon,43.9492493,4.8059012,clear sky,29.74,21947180,8.600000381469727,True,"Grand Hôtel d’Orange, BW Signature Collection",Hôtel 4 étoiles à Orange avec une piscine extérieure et un restaurant 
+Avignon,43.9492493,4.8059012,clear sky,29.74,1298419,8.199999809265137,True,Campanile Orange,"Hôtel 3 étoiles avec un restaurant - Théâtre antique d'Orange à 1,6 km"
+Avignon,43.9492493,4.8059012,clear sky,29.74,11836793,8.399999618530273,True,B&B Hotel Orange,Hôtel 3 étoiles à Orange avec un restaurant 
+Avignon,43.9492493,4.8059012,clear sky,29.74,1168939,8.399999618530273,True,Hôtel Belesso,Hôtel dans les montagnes à Fontvieille avec un restaurant et un bar/salon 
+Avignon,43.9492493,4.8059012,clear sky,29.74,1104788,7.199999809265137,True,Les Vignes Blanches,Hôtel 3 étoiles à Beaucaire avec un restaurant et un bar/salon 
+Avignon,43.9492493,4.8059012,clear sky,29.74,23631245,7.199999809265137,True,Prato Plage,Hôtel en bord de lac à Pernes-les-Fontaines avec une piscine extérieure 
+Avignon,43.9492493,4.8059012,clear sky,29.74,8487337,9.0,True,Hôtel Mistral,Hôtel dans un parc régional à Mas-Blanc-des-Alpilles 
+Avignon,43.9492493,4.8059012,clear sky,29.74,18123940,8.800000190734863,True,La Résidence - Arles,"Hôtel de luxe à Arles, dans le quartier historique "
+Avignon,43.9492493,4.8059012,clear sky,29.74,2532551,8.0,True,Le Cheval Blanc,Hôtel au centre-ville à Arles avec un spa
+Avignon,43.9492493,4.8059012,clear sky,29.74,4184690,8.600000381469727,True,Hôtel Le Ya'Tis,Hôtel 3 étoiles à Saint-Laurent-des-Arbres 
+Avignon,43.9492493,4.8059012,clear sky,29.74,2684990,8.800000190734863,True,Du Musée,Hôtel 3 étoiles dans le quartier de Centre-ville d’Arles avec un bar/salon 
+Avignon,43.9492493,4.8059012,clear sky,29.74,1346802,8.399999618530273,True,Hôtel Mireille,Hôtel au bord de l'eau à Arles avec un restaurant et un bar/salon 
+Avignon,43.9492493,4.8059012,clear sky,29.74,91144108,8.0,True,Soko Hotels Pont du Gard ,"Hôtel 3,5 étoiles avec un restaurant - Pont du Gard à 1,3 km"
+Avignon,43.9492493,4.8059012,clear sky,29.74,1967431,8.600000381469727,True,Hôtel Le Patio de Violette,Hôtel 3 étoiles à Uzès avec une piscine extérieure et un bar en bord de piscine 
+Uzes,44.0121279,4.4196718,clear sky,28.89,1967431,8.600000381469727,True,Hôtel Le Patio de Violette,Hôtel 3 étoiles à Uzès avec une piscine extérieure et un bar en bord de piscine 
+Uzes,44.0121279,4.4196718,clear sky,28.89,174874,9.399999618530273,True,Le Prieure,"Hôtel de luxe avec une piscine extérieure - Palais des Papes à 2,8 km"
+Uzes,44.0121279,4.4196718,clear sky,28.89,1337732,8.800000190734863,True,Le Pré Galoffre,Hôtel 3 étoiles à Nîmes avec une piscine extérieure et un restaurant 
+Uzes,44.0121279,4.4196718,clear sky,28.89,1104788,7.199999809265137,True,Les Vignes Blanches,Hôtel 3 étoiles à Beaucaire avec un restaurant et un bar/salon 
+Uzes,44.0121279,4.4196718,clear sky,28.89,4184690,8.600000381469727,True,Hôtel Le Ya'Tis,Hôtel 3 étoiles à Saint-Laurent-des-Arbres 
+Uzes,44.0121279,4.4196718,clear sky,28.89,91144108,8.0,True,Soko Hotels Pont du Gard ,"Hôtel 3,5 étoiles avec un restaurant - Pont du Gard à 1,3 km"
+Uzes,44.0121279,4.4196718,clear sky,28.89,1383445,9.0,True,Le Clos de Pradines,Hôtel 3 étoiles à Saint-Quentin-la-Poterie avec un spa et une piscine extérieure 
+Uzes,44.0121279,4.4196718,clear sky,28.89,8427527,7.400000095367432,True,Vacancéole - Résidence Pont du Gard,"Résidence 3 étoiles avec un spa proposant des soins complets - Pont du Gard à 1,5 km"
+Nimes,43.8374249,4.3600687,clear sky,29.21,1337732,8.800000190734863,True,Le Pré Galoffre,Hôtel 3 étoiles à Nîmes avec une piscine extérieure et un restaurant 
+Nimes,43.8374249,4.3600687,clear sky,29.21,2687392,7.800000190734863,True,Residéal La Grande Motte,Hôtel très pratique pour les familles à La Grande-Motte avec une piscine extérieure et un bar/salon 
+Nimes,43.8374249,4.3600687,clear sky,29.21,1168939,8.399999618530273,True,Hôtel Belesso,Hôtel dans les montagnes à Fontvieille avec un restaurant et un bar/salon 
+Nimes,43.8374249,4.3600687,clear sky,29.21,1104788,7.199999809265137,True,Les Vignes Blanches,Hôtel 3 étoiles à Beaucaire avec un restaurant et un bar/salon 
+Nimes,43.8374249,4.3600687,clear sky,29.21,4957037,10.0,True,Boutique Hôtel des Remparts,"Hôtel de luxe avec un spa proposant des soins complets - Tour de Constance à 0,2 km"
+Nimes,43.8374249,4.3600687,clear sky,29.21,8487337,9.0,True,Hôtel Mistral,Hôtel dans un parc régional à Mas-Blanc-des-Alpilles 
+Nimes,43.8374249,4.3600687,clear sky,29.21,18123940,8.800000190734863,True,La Résidence - Arles,"Hôtel de luxe à Arles, dans le quartier historique "
+Nimes,43.8374249,4.3600687,clear sky,29.21,2532551,8.0,True,Le Cheval Blanc,Hôtel au centre-ville à Arles avec un spa
+Nimes,43.8374249,4.3600687,clear sky,29.21,4184690,8.600000381469727,True,Hôtel Le Ya'Tis,Hôtel 3 étoiles à Saint-Laurent-des-Arbres 
+Nimes,43.8374249,4.3600687,clear sky,29.21,2684990,8.800000190734863,True,Du Musée,Hôtel 3 étoiles dans le quartier de Centre-ville d’Arles avec un bar/salon 
+Nimes,43.8374249,4.3600687,clear sky,29.21,1346802,8.399999618530273,True,Hôtel Mireille,Hôtel au bord de l'eau à Arles avec un restaurant et un bar/salon 
+Nimes,43.8374249,4.3600687,clear sky,29.21,91144108,8.0,True,Soko Hotels Pont du Gard ,"Hôtel 3,5 étoiles avec un restaurant - Pont du Gard à 1,3 km"
+Nimes,43.8374249,4.3600687,clear sky,29.21,2024685,8.800000190734863,True,"Hôtel Disini Montpellier Est, The Originals Relais (Relais du Silence)",Hôtel 4 étoiles à Castries avec un spa et un restaurant 
+Nimes,43.8374249,4.3600687,clear sky,29.21,1967431,8.600000381469727,True,Hôtel Le Patio de Violette,Hôtel 3 étoiles à Uzès avec une piscine extérieure et un bar en bord de piscine 
+Nimes,43.8374249,4.3600687,clear sky,29.21,1451419,8.800000190734863,True,Hotel Restaurant Le Cours,"Hôtel 3 étoiles avec un restaurant - Camargue à 2,8 km"
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,4957037,10.0,True,Boutique Hôtel des Remparts,"Hôtel de luxe avec un spa proposant des soins complets - Tour de Constance à 0,2 km"
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,28828269,8.600000381469727,True,Hotel Belaroia,Hôtel 4 étoiles dans le quartier de Centre-ville de  Montpellier avec un spa et un restaurant 
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,3763185,8.199999809265137,True,"The Originals City, Le Mas de Grille",Hôtel 3 étoiles à Saint-Jean-de-Védas avec un restaurant et un bar/salon 
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,5352437,8.800000190734863,True,Privilège Hôtel & Apparts Eurociel Centre Comédie,Centre-ville de  Montpellier : hôtel dans le centre-ville 
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,4877461,8.600000381469727,True,Courtyard by Marriott Montpellier,Hôtel 4 étoiles dans le quartier de Port Marianne avec une piscine extérieure et un restaurant 
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,2687392,7.800000190734863,True,Residéal La Grande Motte,Hôtel très pratique pour les familles à La Grande-Motte avec une piscine extérieure et un bar/salon 
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,3098333,9.0,True,Hotel Ulysse Montpellier Centre,"Hôtel très pratique pour les familles à Montpellier, en liaison directe avec le centre des congrès
+"
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,1846853,8.800000190734863,True,Appart'City Confort Montpellier Gare Saint Roch,Appartements au centre-ville à Montpellier avec kitchenettes 
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,4914433,8.800000190734863,True,Forme Hotel & Spa Montpellier,"Hôtel très pratique pour les familles avec un spa proposant des soins complets - Salle de spectacles Sud de France Arena à 2,2 km"
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,1337732,8.800000190734863,True,Le Pré Galoffre,Hôtel 3 étoiles à Nîmes avec une piscine extérieure et un restaurant 
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,5189645,7.800000190734863,True,Appart'City Confort Montpellier Millénaire,Appartements confortables avec kitchenettes dans le quartier de Le Millénaire 
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,9657429,7.599999904632568,True,Appart'City Confort Montpellier Ovalie 2,Appart'hôtel 3 étoiles dans le quartier de Montpellier Sud avec un restaurant et un bar/salon
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,2685208,8.0,True,Amerique Hotel Palavas Plage,Hôtel très pratique pour les familles à Palavas-les-Flots avec une piscine extérieure et un bar/salon 
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,1607400,7.199999809265137,True,Appart'City Confort Montpellier Ovalie 1,Appart'hôtel 3 étoiles à Montpellier avec un restaurant et un bar/salon 
+Aigues Mortes,43.5658225,4.1912837,clear sky,30.95,1252742,7.800000190734863,True,Novotel Suites Montpellier,"Hôtel au bord de l'eau dans le quartier de Centre-ville de  Montpellier, avec un bar/salon et une salle de fitness ouverte 24 h/24 "
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,4877461,8.600000381469727,True,Courtyard by Marriott Montpellier,Hôtel 4 étoiles dans le quartier de Port Marianne avec une piscine extérieure et un restaurant 
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,2687392,7.800000190734863,True,Residéal La Grande Motte,Hôtel très pratique pour les familles à La Grande-Motte avec une piscine extérieure et un bar/salon 
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,4914433,8.800000190734863,True,Forme Hotel & Spa Montpellier,"Hôtel très pratique pour les familles avec un spa proposant des soins complets - Salle de spectacles Sud de France Arena à 2,2 km"
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,3644050,7.400000095367432,True,Citotel Le Mirage,Hôtel 3 étoiles à Istres avec un bar en bord de piscine et un centre de conférence 
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,1337732,8.800000190734863,True,Le Pré Galoffre,Hôtel 3 étoiles à Nîmes avec une piscine extérieure et un restaurant 
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,1168939,8.399999618530273,True,Hôtel Belesso,Hôtel dans les montagnes à Fontvieille avec un restaurant et un bar/salon 
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,5189645,7.800000190734863,True,Appart'City Confort Montpellier Millénaire,Appartements confortables avec kitchenettes dans le quartier de Le Millénaire 
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,2521313,8.0,True,Hôtel Ariane,Hôtel 3 étoiles à Fos-sur-Mer avec une piscine extérieure 
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,1104788,7.199999809265137,True,Les Vignes Blanches,Hôtel 3 étoiles à Beaucaire avec un restaurant et un bar/salon 
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,2685208,8.0,True,Amerique Hotel Palavas Plage,Hôtel très pratique pour les familles à Palavas-les-Flots avec une piscine extérieure et un bar/salon 
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,4957037,10.0,True,Boutique Hôtel des Remparts,"Hôtel de luxe avec un spa proposant des soins complets - Tour de Constance à 0,2 km"
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,8487337,9.0,True,Hôtel Mistral,Hôtel dans un parc régional à Mas-Blanc-des-Alpilles 
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,18123940,8.800000190734863,True,La Résidence - Arles,"Hôtel de luxe à Arles, dans le quartier historique "
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,2532551,8.0,True,Le Cheval Blanc,Hôtel au centre-ville à Arles avec un spa
+Saintes Maries de la mer,43.4522771,4.4287172,clear sky,29.95,2684990,8.800000190734863,True,Du Musée,Hôtel 3 étoiles dans le quartier de Centre-ville d’Arles avec un bar/salon 
+Collioure,42.52505,3.0831554,clear sky,32.94,6600556,8.399999618530273,True,Appart'City Confort Perpignan Centre Gare,Appartements au centre-ville à Perpignan avec kitchenettes 
+Collioure,42.52505,3.0831554,clear sky,32.94,4042453,8.600000381469727,True,Kyriad Prestige Perpignan Centre Del Mon,Hôtel de luxe à Perpignan avec un bar/salon 
+Collioure,42.52505,3.0831554,clear sky,32.94,23089672,8.399999618530273,True,Hotel Ampuria Inn,"Hôtel 3 étoiles avec un bar en bord de piscine - Windoor Real Fly à 0,6 km"
+Collioure,42.52505,3.0831554,clear sky,32.94,2689328,8.800000190734863,True,Hotel Vistabella,Hôtel en bord de plage à Rosas avec un spa et un bar à la plage
+Collioure,42.52505,3.0831554,clear sky,32.94,8071448,9.0,True,NYX Hotel,Hôtel au centre-ville à Perpignan avec un bar/salon 
+Collioure,42.52505,3.0831554,clear sky,32.94,901143,9.0,True,La Villa Duflot Hôtel & Spa Perpignan,"Hôtel 4 étoiles avec un spa proposant des soins complets - Palais des Rois de Majorque à 2,4 km"
+Collioure,42.52505,3.0831554,clear sky,32.94,3520205,8.0,True,Brit Hotel Porte d’Espagne,"Hôtel de style Art déco avec un bar/salon - Université de Perpignan à 2,8 km"
+Collioure,42.52505,3.0831554,clear sky,32.94,1211395,8.199999809265137,True,Hotel Empordà,"Hôtel 4 étoiles avec un restaurant - Musée Dalí à 1,1 km"
+Collioure,42.52505,3.0831554,clear sky,32.94,1150154,7.199999809265137,True,Campanile Perpignan Sud,"Hôtel très pratique pour les familles à Perpignan, avec un restaurant et en liaison directe avec un centre commercial"
+Collioure,42.52505,3.0831554,clear sky,32.94,1276606,7.199999809265137,True,Mar i Cel Hôtel & Spa,Hôtel en bord de plage à Canet-en-Roussillon avec un spa et un restaurant
+Collioure,42.52505,3.0831554,clear sky,32.94,5674403,8.800000190734863,True,Kyriad Perpignan Sud,Hôtel 3 étoiles à Perpignan avec un restaurant et un bar/salon 
+Collioure,42.52505,3.0831554,clear sky,32.94,2059257,7.800000190734863,True,Aparthotel Mer & Golf City Perpignan Centre,Résidence au centre-ville à deux pas de Théâtre de l'Archipel 
+Collioure,42.52505,3.0831554,clear sky,32.94,1167712,8.199999809265137,True,Hôtel De La Loge,Hôtel très pratique pour les familles dans le quartier de Saint-Jean avec un restaurant et un bar/salon 
+Collioure,42.52505,3.0831554,clear sky,32.94,2060967,8.199999809265137,True, Vacancéole - Hôtel Las Motas,Hôtel 3 étoiles à Alénya avec un spa 
+Collioure,42.52505,3.0831554,clear sky,32.94,22613987,9.0,True,"The Originals City, Hôtel Les Dômes, Perpignan Sud","Hôtel qui accepte les animaux de compagnie à Saleilles, avec un spa proposant des soins complets et en liaison directe avec le centre des congrès"
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,48805980,8.600000381469727,True,SOWELL COLLECTION Hôtel du Roi & SPA,Hôtel de luxe à Carcassonne avec un spa et une piscine couverte 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,21722825,8.800000190734863,True,SOWELL HÔTELS Les Chevaliers,Hôtel 4 étoiles à Carcassonne avec un restaurant et un bar/salon 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,3729883,8.399999618530273,True,Campanile Carcassonne Est La Cite,Hôtel 3 étoiles à Carcassonne avec une piscine extérieure et un restaurant 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,6139364,9.399999618530273,True,Château de Palaja,Hôtel très pratique pour les familles à Palaja avec un spa et une piscine extérieure 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,7450420,8.399999618530273,True,"The Originals City, Hôtel Pont Rouge, Carcassonne","Hôtel au bord de l'eau et en liaison directe avec un centre commercial, non loin de Écluse de Saint-Jean
+"
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,3961148,8.399999618530273,True,"The Originals City, Hôtel Cartier",Hôtel de style Art déco à Quillan avec un restaurant et un bar/salon 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,4026602,8.0,True,Hotel Montsegur,Hôtel au centre-ville à Carcassonne 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,2202360,8.0,True,Cerise Carcassonne Sud,"Appart'hôtel 3 étoiles avec un spa proposant des soins complets - Basilique Saint-Nazaire à 0,7 km"
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,25771401,9.0,True,Hôtellerie du Château de Floure & Spa,Hôtel 4 étoiles à Floure avec un spa et une piscine couverte 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,32,8.0,True,ibis Carcassonne Centre la Cité,Hôtel au centre-ville à Carcassonne avec un bar/salon 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,19445216,8.199999809265137,True,Contact Hôtel Restaurant Le Minervois,Hôtel 3 étoiles à Caunes-Minervois avec un restaurant et un bar/salon 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,24152511,8.600000381469727,True,Sowell Collection Hotel du Roi & Spa,Hôtel de luxe à Carcassonne avec un spa et une piscine couverte 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,8668038,8.600000381469727,True,Le Top Du Roulier,Hôtel 3 étoiles à Capendu avec un restaurant et un bar/salon 
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,5637503,8.0,True,Zenitude Hôtel - Résidences Narbonne Centre,"Appart'hôtel de luxe à Narbonne, dans le centre-ville "
+Carcassonne,43.2130358,2.3491069,clear sky,28.97,36023732,9.199999809265137,True,Best Western Le Vauban,Hôtel dans les montagnes à Prades avec une piscine extérieure et un restaurant 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,2898280,8.399999618530273,True,Residhome Toulouse Tolosa,Appart'hôtel 3 étoiles à Toulouse avec un centre de remise en forme 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,8678123,8.399999618530273,True,Hôtel de Brienne,Hôtel de luxe à Toulouse avec un bar/salon 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,1337736,7.800000190734863,True,Zenitude Hôtel - Résidences Toulouse Métropole,Appart'hôtel 3 étoiles à Toulouse avec une piscine extérieure 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,2459160,8.800000190734863,True,Residhome Toulouse Occitania,Appartements au centre-ville avec cuisines dans le quartier de Rive gauche de Toulouse 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,430281,10.0,True,Hotel Les Capitouls Toulouse Centre - Handwritten Collection,"Hôtel 4 étoiles à proximité de Capitole de Toulouse, en liaison directe avec l'aéroport et disposant d'un bar/lounge
+"
+Toulouse,43.6044622,1.4442469,clear sky,27.97,44816022,9.600000381469727,True,Residhome Toulouse Ponts Jumeaux,Résidence 3 étoiles dans le quartier de Quartier des Minimes - Barrière de Paris 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,1844170,7.800000190734863,True,Nemea Appart'Hotel Toulouse Saint Martin,Résidence au centre-ville à Toulouse avec une piscine couverte 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,2220603,7.199999809265137,True,Appart’City Confort Toulouse Purpan,Appartements confortables avec kitchenettes dans le quartier de Toulouse  Ouest 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,1489907,8.0,True,Appart'City Classic Toulouse Saint Simon,Appartements confortables à Toulouse avec cuisines 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,11439,8.399999618530273,True,ibis Toulouse Ponts Jumeaux,Hôtel 3 étoiles à Toulouse avec un restaurant et un bar/salon 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,2419,8.399999618530273,True,Novotel Toulouse Purpan Aéroport,Hôtel 4 étoiles dans le quartier de Purpan avec un restaurant et un bar/salon 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,1457901,9.199999809265137,True,"Holiday Inn Express Toulouse Airport, an IHG Hotel","Hôtel 3 étoiles avec une piscine extérieure - Airbus à 1,7 km"
+Toulouse,43.6044622,1.4442469,clear sky,27.97,1152459,8.0,True,Hotel Campanile Toulouse - Blagnac Aéroport,Hôtel 3 étoiles à Blagnac avec un restaurant et un bar/salon 
+Toulouse,43.6044622,1.4442469,clear sky,27.97,2019803,8.0,True,Zenitude Hôtel-Résidences Toulouse Aéroport Blagnac,Hôtel 4 étoiles avec une piscine couverte - Airbus à 2 km
+Toulouse,43.6044622,1.4442469,clear sky,27.97,874472,8.600000381469727,True,"Holiday Inn Toulouse Airport, an IHG Hotel","Hôtel 4 étoiles avec une piscine extérieure - Airbus à 1,7 km"
+Montauban,44.0175835,1.3549991,clear sky,28.28,1599931,7.0,True,Kyriad Montauban Sud - Albasud,Hôtel 3 étoiles à Montauban avec un restaurant 
+Montauban,44.0175835,1.3549991,clear sky,28.28,975631,8.600000381469727,True,Mercure Toulouse Aeroport Golf de Seilh,"Hôtel 4 étoiles avec un terrain de golf - Golf de Toulouse Seilh à 0,2 km"
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,5189521,7.800000190734863,True,Hôtel Anjou,Centre-ville de Biarritz : hôtel au centre-ville avec une plage privée
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,788078,6.800000190734863,True,Hotel Florida,Centre-ville de Biarritz : hôtel de luxe près de l'océan 
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,15186941,9.0,True,Hôtel des Basses Pyrénées,Hôtel pour la clientèle LGBTQIA+ à Bayonne avec un restaurant et un bar/salon 
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,1234502,8.199999809265137,True,Hôtel & Spa – Thalazur Saint Jean de Luz,"Hôtel 4 étoiles proche de la plage avec spa, près de Plage de Saint-Jean-de-Luz "
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,561702,7.599999904632568,True,Kyriad Direct Eth Irun,Hôtel en périphérie à Irun avec un restaurant et un bar/salon 
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,21628,7.199999809265137,True,Campanile Bayonne,Hôtel 3 étoiles à Bayonne avec un restaurant 
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,3044428,8.199999809265137,True,Temporesidence Cathedrale,"Résidence de luxe à Bayonne, dans le quartier historique "
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,1472009,7.800000190734863,True,Hôtel Résidence Vacances Bleues Orhoitza,Hôtel au bord de l'eau à Hendaye avec une piscine extérieure et un restaurant 
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,18099827,9.0,True,Hôtel Bel Air,"Hôtel 3 étoiles de Saint-Jean-de-Luz, en bord de plage, avec bar/salon "
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,1118963,9.399999618530273,True,Auberge Ostape,Hôtel de luxe à Bidarray avec un spa et un restaurant 
+Biarritz,43.4832523,-1.5592776,clear sky,26.91,5991833,8.399999618530273,True,"The Originals City, Hôtel Le Lodge",Hôtel 3 étoiles à Ondres avec un restaurant et un bar/salon 
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,15186941,9.0,True,Hôtel des Basses Pyrénées,Hôtel pour la clientèle LGBTQIA+ à Bayonne avec un restaurant et un bar/salon 
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,5189521,7.800000190734863,True,Hôtel Anjou,Centre-ville de Biarritz : hôtel au centre-ville avec une plage privée
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,788078,6.800000190734863,True,Hotel Florida,Centre-ville de Biarritz : hôtel de luxe près de l'océan 
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,21628,7.199999809265137,True,Campanile Bayonne,Hôtel 3 étoiles à Bayonne avec un restaurant 
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,3044428,8.199999809265137,True,Temporesidence Cathedrale,"Résidence de luxe à Bayonne, dans le quartier historique "
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,1234502,8.199999809265137,True,Hôtel & Spa – Thalazur Saint Jean de Luz,"Hôtel 4 étoiles proche de la plage avec spa, près de Plage de Saint-Jean-de-Luz "
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,561702,7.599999904632568,True,Kyriad Direct Eth Irun,Hôtel en périphérie à Irun avec un restaurant et un bar/salon 
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,1256908,7.599999904632568,True,SOWELL Family Pignada Plage,Résidence au bord d'un lac à Soustons avec une piscine extérieure et un restaurant 
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,95078209,10.0,True,B&B Hotel Saint-Geours-De-Maremne Hossegor,Hôtel 3 étoiles à Saint-Geours-de-Maremne 
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,1472009,7.800000190734863,True,Hôtel Résidence Vacances Bleues Orhoitza,Hôtel au bord de l'eau à Hendaye avec une piscine extérieure et un restaurant 
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,18099827,9.0,True,Hôtel Bel Air,"Hôtel 3 étoiles de Saint-Jean-de-Luz, en bord de plage, avec bar/salon "
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,1118963,9.399999618530273,True,Auberge Ostape,Hôtel de luxe à Bidarray avec un spa et un restaurant 
+Bayonne,43.4945144,-1.4736657,clear sky,27.18,5991833,8.399999618530273,True,"The Originals City, Hôtel Le Lodge",Hôtel 3 étoiles à Ondres avec un restaurant et un bar/salon 
+La Rochelle,46.1591126,-1.1520434,clear sky,30.07,1698064,7.599999904632568,True,Vacancéole – Le Domaine du Château – La Rochelle/Île de Ré,Résidence 3 étoiles à Lagord avec une piscine extérieure 
+La Rochelle,46.1591126,-1.1520434,clear sky,30.07,1085707,9.199999809265137,True,Hotel de Toiras,"Hôtel de luxe avec un restaurant - Baie de Biscaye à 0,1 km"
+La Rochelle,46.1591126,-1.1520434,clear sky,30.07,1314934,8.600000381469727,True,Hôtel et spa les Cleunes Oléron,Hôtel proche de la plage à Saint-Trojan-les-Bains avec spa et bar/salon 
+La Rochelle,46.1591126,-1.1520434,clear sky,30.07,17401114,9.199999809265137,True,Hotel Vert Bois,"Hôtel 3 étoiles avec un bar/salon - La Grande Plage à 2,7 km"
+La Rochelle,46.1591126,-1.1520434,clear sky,30.07,4884891,8.600000381469727,True,"Hôtel de Ré, The Originals Boutique",Hôtel très pratique pour les familles à Sainte-Marie-de-Ré avec une piscine extérieure et un bar/salon 
+La Rochelle,46.1591126,-1.1520434,clear sky,30.07,11119990,8.0,True,Elégance Suites Hôtel - Île de Ré,Hôtel proche de la plage à Le Bois-Plage-en-Ré avec restaurant et bar/salon 
+La Rochelle,46.1591126,-1.1520434,clear sky,30.07,2253295,7.599999904632568,True,Hôtel Restaurant & SPA Plaisir,Hôtel près de la plage à Le Bois-Plage-en-Ré avec un spa et un restaurant
