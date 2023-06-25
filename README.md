@@ -2,6 +2,8 @@
 
 Jedha certification bloc 01 Kayak Project
 
+"This project fetches data for hotels, weather conditions, and city information, processing the data into both CSV and DB files. It also identifies top hotels and cities, and presents them on a map of France."
+
 You can watch the presentation video [here](https://secure.vidyard.com/organizations/2981096/players/hw4PmBhy5DN7gmxykSDjx5/edit=true)
 
 You can download the datasets from the following links:
